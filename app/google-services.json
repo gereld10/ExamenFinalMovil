@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470365022916",
+    "firebase_url": "https://examenfinalmovil-default-rtdb.firebaseio.com",
+    "project_id": "examenfinalmovil",
+    "storage_bucket": "examenfinalmovil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470365022916:android:6dc49912ebf7c3065b3791",
+        "android_client_info": {
+          "package_name": "com.example.pm1e3_gereld_sagastume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470365022916-h644lvclngoljl49dd2tsns7p5jthrlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARBIcGejhxgrmMYFLXaI5f8DGPTEabhVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470365022916-h644lvclngoljl49dd2tsns7p5jthrlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
